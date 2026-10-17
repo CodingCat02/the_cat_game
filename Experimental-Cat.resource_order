@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprite","order":2,"path":"folders/Sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"sCat_front_sit","order":1,"path":"sprites/sCat_front_sit/sCat_front_sit.yy",},
+  ],
+}
